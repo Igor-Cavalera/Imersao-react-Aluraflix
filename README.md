@@ -1,2 +1,2 @@
-# Projeto "Aluraflix" - Semana de Imersão no React 
+## Projeto "Aluraflix" - Semana de Imersão no React 
 
