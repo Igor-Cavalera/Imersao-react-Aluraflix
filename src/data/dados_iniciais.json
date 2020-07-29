@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries Recomendadas",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Hunters",
+          "url": "https://www.youtube.com/watch?v=hYxTHcoRpNo"
+        },
+        {
+          "titulo": "13 Reasons Why",
+          "url": "https://www.youtube.com/watch?v=UdzM6rOC3oA"
+        },
+        {
+          "titulo": "The Punisher",
+          "url": "https://www.youtube.com/watch?v=jrLhP5sK2wI"
+        },
+        {
+          "titulo": "The Umbrella Academy",
+          "url": "https://www.youtube.com/watch?v=0DAmWHxeoKw"
+        },
+        {
+          "titulo": "The Rain",
+          "url": "https://www.youtube.com/watch?v=Se3AfHO7GmY"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Black Widow",
+          "url": "https://www.youtube.com/watch?v=RxAtuMu_ph4"
+        },
+        {
+          "titulo": "Black Panther",
+          "url": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+        },
+        {
+          "titulo": "Baby Driver",
+          "url": "https://www.youtube.com/watch?v=D9YZw_X5UzQ"
+        },
+        {
+          "titulo": "Atomic Blonde",
+          "url": "https://www.youtube.com/watch?v=aieQrj9Yy8s"
+        },
+        {
+          "titulo": "Hush",
+          "url": "https://www.youtube.com/watch?v=Q_P8WCbhC6s"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Dead Cells",
+          "url": "https://www.youtube.com/watch?v=RvGaSPTcTxc"
+        },
+        {
+          "titulo": "Resident Evil 2 Remake",
+          "url": "https://www.youtube.com/watch?v=u3wS-Q2KBpk"
+        },
+        {
+          "titulo": "Uncharted 4",
+          "url": "https://www.youtube.com/watch?v=y1Rx-Bbht5E"
+        },
+        {
+          "titulo": "Detroit Become Human",
+          "url": "https://www.youtube.com/watch?v=QD1pbWCJcKQ"
+        },
+        {
+          "titulo": "The Last Of US - Part ll",
+          "url": "https://www.youtube.com/watch?v=TXl9GI1p_Os"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas Recomendadas",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "AUTOMATIC - Vo Williams X DJ Ricky Luna",
+          "url": "https://www.youtube.com/watch?v=7hsil0ZT9jE"
+        },
+        {
+          "titulo": "Tedashii - Get Out My Way",
+          "url": "https://www.youtube.com/watch?v=ZBshbsz1nGg"
+        },
+        {
+          "titulo": "Queen - Bohemian Rhapsody",
+          "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
+        },
+        {
+          "titulo": "Natural - Imagine Dragons",
+          "url": "https://www.youtube.com/watch?v=V5M2WZiAy6k"
+        },
+        {
+          "titulo": "The Score - Born For This",
+          "url": "https://www.youtube.com/watch?v=aJ5IzGBnWAc"
+        },
+        {
+          "titulo": "UNSECRET X VO WILLIAMS - Catch me if you can",
+          "url": "https://www.youtube.com/watch?v=kyhhlLmNmvU"
+        }
+      ]
+    }
+  ]
+}
