@@ -1,4 +1,5 @@
 ## Projeto "Aluraflix" - Semana de Imersão no React 
+Lembrete: Concertar o formulário! 
 
 ![imersao-react-alura](https://user-images.githubusercontent.com/66530386/88856114-52255a00-d1ca-11ea-8ce4-a4bcb456ce7c.jpg) 
 
