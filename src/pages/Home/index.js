@@ -41,9 +41,7 @@ function Home() {
         category={dadosIniciais.categorias[5]}
       />
 
-      <Footer
-        //qual o código adicional? 
-      />
+      <Footer />
     </div>
   );
 }
